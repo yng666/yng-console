@@ -1,0 +1,27 @@
+{
+    "name": "yng/console",
+    "description": "YngPHP命令行组件！",
+    "homepage": "https://www.chinaqe.cn",
+    "keywords": [
+        "console",
+        "yngphp",
+        "cli"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yng"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yng\\Console\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
