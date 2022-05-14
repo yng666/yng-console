@@ -1,1 +1,1 @@
-yng-console控制台
+yng-console控制台命令
